@@ -1,0 +1,1 @@
+AWS services like IAM, VPC, EC2, EBS, S3, ELB, Auto Scaling, Route 53, and SNS and create custom sized VPC, subnets, NAT, EC2 instances, ELB and Security groups, IAM Roles,Users, Cloud Watch. Devops tools like Docker, GIT, Jenkins, Nexus, Maven
